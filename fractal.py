@@ -2,7 +2,7 @@ from turtle import*
 import random
 import string
 alphabet = list(string.ascii_lowercase)
-speed = 10
+speed(10)
 keys = []
 values  = []
 x = []
